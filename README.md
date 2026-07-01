@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0014-longest-common-prefix) |
+| [1732-find-the-highest-altitude](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
