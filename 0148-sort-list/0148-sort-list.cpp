@@ -1,55 +1,32 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        if (!head || !head->next)
+
+        if (!head || !head->next) {
             return head;
-
-        
-        int length = 0;
-        ListNode* curr = head;
-        while (curr) {
-            length++;
-            curr = curr->next;
         }
 
-        ListNode dummy(0);
-        dummy.next = head;
+        ListNode* prev = nullptr;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-       
-        for (int step = 1; step < length; step <<= 1) {
-            ListNode* prev = &dummy;
-            curr = dummy.next;
-
-            while (curr) {
-                ListNode* left = curr;
-                ListNode* right = split(left, step);
-                curr = split(right, step); 
-
-                prev->next = merge(left, right);
-                while (prev->next) {
-                    prev = prev->next;
-                }
-            }
+        while (fast && fast->next) {
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        return dummy.next;
+        if (prev) {
+            prev->next = nullptr;
+        }
+
+        ListNode* left = sortList(head);
+        ListNode* right = sortList(slow);
+
+        return merge(left, right);
     }
 
 private:
-   
-    ListNode* split(ListNode* head, int step) {
-        if (!head)
-            return nullptr;
-
-        for (int i = 1; head->next && i < step; ++i) {
-            head = head->next;
-        }
-
-        ListNode* rest = head->next;
-        head->next = nullptr;
-        return rest;
-    }
-
     ListNode* merge(ListNode* list1, ListNode* list2) {
         ListNode dummy(0);
         ListNode* tail = &dummy;
@@ -64,7 +41,9 @@ private:
             }
             tail = tail->next;
         }
+
         tail->next = list1 ? list1 : list2;
+
         return dummy.next;
     }
 };
