@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0014-longest-common-prefix) |
+| [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
@@ -128,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -146,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
