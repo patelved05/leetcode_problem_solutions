@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3894-traffic-signal-color](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0258-add-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3894-traffic-signal-color](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3894-traffic-signal-color](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
