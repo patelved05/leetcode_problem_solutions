@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3467-transform-array-by-parity](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3467-transform-array-by-parity) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [3467-transform-array-by-parity](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3467-transform-array-by-parity](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
