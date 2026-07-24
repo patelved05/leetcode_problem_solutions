@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3945-digit-frequency-score](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3467-transform-array-by-parity](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
