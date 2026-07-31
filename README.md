@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0014-longest-common-prefix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
