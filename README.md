@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0014-longest-common-prefix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1732-find-the-highest-altitude) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0205-isomorphic-strings) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
