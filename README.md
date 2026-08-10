@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0125-valid-palindrome) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Prefix Sum
 |  |
@@ -272,5 +276,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
