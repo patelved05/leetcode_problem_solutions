@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1472-design-browser-history) |
 | [1732-find-the-highest-altitude](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2104-sum-of-subarray-ranges](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3467-transform-array-by-parity](https://github.com/patelved05/leetcode_problem_solutions/tree/master/3467-transform-array-by-parity) |
 ## Trie
 |  |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
