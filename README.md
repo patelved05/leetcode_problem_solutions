@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0796-rotate-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/patelved05/leetcode_problem_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/patelved05/leetcode_problem_solutions/tree/master/2104-sum-of-subarray-ranges) |
