@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -303,8 +305,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/patelved05/leetcode_problem_solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
